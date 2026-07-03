@@ -1,4 +1,4 @@
-# 
+# Open Source SecureMind pack complet. Téléchargez et installez avec support CLI et modèles pré-entraînés — rapide, sécurisé et facile à utiliser.
 
 
 
